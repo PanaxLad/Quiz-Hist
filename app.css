@@ -1,6 +1,6 @@
 :root {
-    background-color: #ecf5ff;
-    font-size: 52.5%;
+    background-color: #121212;
+    font-size: 62.5%;
     /* text-align: justify; */
 }
 
@@ -9,7 +9,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #e0e0e0;
 }
 
 h1,
@@ -21,7 +21,7 @@ h4 {
 
 h1 {
     font-size: 5.4rem;
-    color: #56a5eb;
+    color: #02dbc5;
     margin-bottom: 5rem;
 }
 
@@ -31,7 +31,7 @@ h1 > span {
 }
 
 h2 {
-    font-size: 3.52rem;
+    font-size: 4.2rem;
     margin-bottom: 4rem;
     font-weight: 700;
 }
@@ -87,11 +87,11 @@ h3 {
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
+    border: 0.1rem solid #02dbc5;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: #56a5eb;
-    background-color: white;
+    color: #02dbc5;
+    background-color: #1e1e1e;
 }
 
 .btn:hover {
@@ -127,3 +127,14 @@ input {
 input::placeholder {
     color: #aaa;
 }
+
+/* #color-index {
+color: #1e1e1e;
+color: #121212;
+color: #bb86fc;
+color: #02dbc5;
+color: #e0e0e0;
+color: #383459;
+color: #252339;
+color: #a31fe4;
+} */

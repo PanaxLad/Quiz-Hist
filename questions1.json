@@ -1,0 +1,130 @@
+[
+    {
+        "question": "Quais foram os principais motivos que levaram as potências europeias a se envolverem no imperialismo na África e Ásia?",
+        "choice1": "Exploração de recursos naturais e busca por mercados consumidores.",
+        "choice2": "Difusão da cultura e valores ocidentais.",
+        "choice3": "Ajuda humanitária e desenvolvimento social.",
+        "choice4": "Proteção dos povos nativos e preservação ambiental.",
+        "answer": 1
+    },
+    {
+        "question": "Qual foi a conferência realizada em 1884-1885 que estabeleceu as regras para a partilha da África entre as potências europeias?",
+        "choice1": "Conferência de Berlim.",
+        "choice2": "Conferência de Viena.",
+        "choice3": "Conferência de Paris.",
+        "choice4": "Conferência de Londres.",
+        "answer": 1
+    },
+    {
+        "question": "Qual país asiatico foi chamado de 'jóia da coroa' do Império Britanico devido a sua importância estratégica e econômica?",
+        "choice1": "China",
+        "choice2": "Índia",
+        "choice3": "Indonesia",
+        "choice4": "Vietnã",
+        "answer": 2
+    },
+    {
+        "question": "Qual o país da Ásia, chocou o mundo ao derrotar uma das grandes potências da Europa, o Império Russo em 1945.",
+        "choice1": "China",
+        "choice2": "Japão",
+        "choice3": "Indonesia",
+        "choice4": "Birmania",
+        "answer": 2
+    },
+    {
+        "question": "Qual a empresa que controlou a Índia por mais de um século?",
+        "choice1": "Companhia Francesa das Índias Orientais.",
+        "choice2": "Companhia Holandesa das Índias Orientais.",
+        "choice3": "Companhia da Baía de Hudson.",
+        "choice4": "Companhia Britânica das Índias Orientais.",
+        "answer": 4
+    },
+    {
+        "question": "Qual país europeu teve a maior parte da África sob seu domínio colonial?",
+        "choice1": "Reino Unido.",
+        "choice2": "França.",
+        "choice3": "Alemanha.",
+        "choice4": "Bélgica.",
+        "answer": 1
+    },
+    {
+        "question": "Quais foram as principais consequências do imperialismo na África e Ásia?",
+        "choice1": "Paz e harmonia entre as nações.",
+        "choice2": "Desenvolvimento econômico e integração cultural.",
+        "choice3": "Exploração econômica, e destruição cultural.",
+        "choice4": "Distribuição justa de recursos naturais.",
+        "answer": 3
+    },
+    {
+        "question": "Qual foi o movimento de independência liderado por Mohandas Gandhi na Índia?",
+        "choice1": "Revolução Cubana.",
+        "choice2": "Revolução Bolchevique.",
+        "choice3": "Movimento dos Direitos Civis.",
+        "choice4": "Movimento da Não Violência.",
+        "answer": 4
+    },
+    {
+        "question": "Qual foi o evento histórico que marcou o fim do imperialismo na Ásia e África?",
+        "choice1": "Primeira Guerra Mundial.",
+        "choice2": "Segunda Guerra Mundial.",
+        "choice3": "Guerra Fria.",
+        "choice4": "Revolução Industrial.",
+        "answer": 2
+    },
+    {
+        "question": "Quais são alguns exemplos de antigas colônias europeias na África que obtiveram independência na década de 1950 e 1960?",
+        "choice1": "Brasil, México e Argentina.",
+        "choice2": "Argélia, Quênia e Gana.",
+        "choice3": "Canadá, Austrália e Nova Zelândia.",
+        "choice4": "Índia, China e Japão.",
+        "answer": 2
+    },
+    {
+        "question": "Quais foram os principais argumentos utilizados pelos defensores do imperialismo na África e Ásia?",
+        "choice1": "Missão civilizatória e superioridade racial.",
+        "choice2": "Promoção da igualdade e direitos humanos.",
+        "choice3": "Desenvolvimento econômico mútuo.",
+        "choice4": "Cooperação política e cultural.",
+        "answer": 1
+    },
+    {
+        "question": "Qual foi o conflito ocorrido entre os anos de 1899 e 1902, na África do Sul, que opôs britânicos e bôeres?",
+        "choice1": "Guerra Civil Espanhola.",
+        "choice2": "Guerra Russo-Japonesa.",
+        "choice3": "Guerra do Ópio.",
+        "choice4": "Guerra dos Bôeres.",
+        "answer": 4
+    },
+    {
+        "question": "Qual foi o primeiro pais Europeu a estabelecer uma colonia na Africa",
+        "choice1": "Portugal",
+        "choice2": "Espanha",
+        "choice3": "França",
+        "choice4": "Reino Unido",
+        "answer": 1
+    },
+    {
+        "question": "Quais foram as principais características do sistema de apartheid implantado na África do Sul?",
+        "choice1": "Integração social e cultural entre diferentes grupos.",
+        "choice2": "Segregação racial e discriminação institucionalizada.",
+        "choice3": "Igualdade de direitos para todas as etnias.",
+        "choice4": "Redistribuição de terras e recursos naturais.",
+        "answer": 2
+    },
+    {
+        "question": "Qual o único país africano que nunca foi colonizado?",
+        "choice1": "Somalia",
+        "choice2": "Gana",
+        "choice3": "Etiópia",
+        "choice4": "Gabão",
+        "answer": 3
+    },
+    {
+        "question": "Quais desses paises Europeus não mantiveram colonias na Africa?",
+        "choice1": "Italia",
+        "choice2": "Dinamarca",
+        "choice3": "Espanha",
+        "choice4": "Suécia",
+        "answer": 4
+    }
+]
