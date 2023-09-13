@@ -1,0 +1,130 @@
+[
+    {
+        "question": "Qual dos seguintes eventos marcou o fim do Segundo Reinado?",
+        "choice1": "Proclamação da República.",
+        "choice2": "Aprovação da Lei Aurea.",
+        "choice3": "Ascensão de Dom Pedro III.",
+        "choice4": "Segunda Guerra Mundial.",
+        "answer": 1
+    },
+    {
+        "question": "Um ponto que marcou o Segundo Reinado de Dom Pedro foi a existência de um Quarto Poder, como ele era Conhecido?",
+        "choice1": "Poder Nobre.",
+        "choice2": "Poder Moderador.",
+        "choice3": "Poder Regencial.",
+        "choice4": "Poder Papal.",
+        "answer": 2
+    },
+    {
+        "question": "A Lei Saraiva, aprovada em 1881, proibia o quê?",
+        "choice1": "Proibição da Compra de Escravos da África.",
+        "choice2": "Proibição de Trabalho Infantil.",
+        "choice3": "Proibição do Voto de Analfabetos.",
+        "choice4": "Proibição do comércio com as Potências Centrais.",
+        "answer": 3
+    },
+    {
+        "question": "Qual era a atividade econômica mais importante do país durante o Segundo Reinado?",
+        "choice1": "Produção Industrial.",
+        "choice2": "Mineração.",
+        "choice3": "Industria Bélica.",
+        "choice4": "Agricultura.",
+        "answer": 4
+    },
+    {
+        "question": "Qual foi o principal produto de Exportação do Brasil durante o Segundo Reinado?",
+        "choice1": "Café.",
+        "choice2": "Aço.",
+        "choice3": "Açúcar.",
+        "choice4": "Equipamento de Artilharia.",
+        "answer": 1
+    },
+    {
+        "question": "Sobre o que tratava a chamada Lei de Terras, aprovada em 1850?",
+        "choice1": "Divisão da zona Rural em pequenas propriedades.",
+        "choice2": "Divisão da zona rural em Latifúndios.",
+        "choice3": "Garantir a Liberdade Religiosa.",
+        "choice4": "Regulamentar a pose de Terras da Igreja.",
+        "answer": 2
+    },
+    {
+        "question": "O que foi a Lei Aurea, lei aprovada em 1888?",
+        "choice1": "Aprovou o Envolvimento do Brasil na Primeira Guerra Mundial.",
+        "choice2": "Resolução para a Guerra do Paraguai.",
+        "choice3": "Abolição da Escravidão.",
+        "choice4": "Proclamação da República.",
+        "answer": 3
+    },
+    {
+        "question": "O que foi a República de Piratini, extinta em 1845 no começo do Segundo Reinado?",
+        "choice1": "Um Movimento contra a Escravidão.",
+        "choice2": "Movimento Revolucionário em São Paulo.",
+        "choice3": "Revolta para derrubar Dom Pedro I.",
+        "choice4": "Movimento Separatista no Sul do país.",
+        "answer": 4
+    },
+    {
+        "question": "A Guerra do Paraguai, foi um conflito militar entre o Paraguai, e a Tríplice Aliança, composta por:",
+        "choice1": "Brasil, Argentina e Uruguai.",
+        "choice2": "Brasil, Bolívia e Argentina.",
+        "choice3": "Brasil, Bolívia e Uruguai.",
+        "choice4": "Brasil, Uruguai e Chile.",
+        "answer": 1
+    },
+    {
+        "question": "A Guerra do Paraguai terminou em 1870, com a:",
+        "choice1": "Vitória do Paraguai.",
+        "choice2": "Vitória da Tríplice Aliança.",
+        "choice3": "Paz Branca.",
+        "choice4": "Golpe Militar no Paraguai.",
+        "answer": 2
+    },
+    {
+        "question": "De 1763 a 1960, antes da construção de Brasília, e durante todo o Império Brasileiro, a capital nacional era:",
+        "choice1": "São Paulo.",
+        "choice2": "Salvador.",
+        "choice3": "Rio de Janeiro.",
+        "choice4": "Recife.",
+        "answer": 3
+    },
+    {
+        "question": "O que Motivou o fim da monarquia?",
+        "choice1": "Crise Econômica.",
+        "choice2": "Conflito com o Exército.",
+        "choice3": "Guerra contra o Paraguai.",
+        "choice4": "Conflitos com a Elite Agraria.",
+        "answer": 4
+    },
+    {
+        "question": "Guerra do Prata (1851-1852) foi um conflito militar ocorrido na Bacio do Prata. Que tipo de conflito foi esse?",
+        "choice1": "Foi um Conflito pela Hegemonia no Rio da Prata, e Influência no Paraguai.",
+        "choice2": "Foi um golpe Militar ocorrido na Argentina, apoiado pelo Brasil.",
+        "choice3": "Um movimento separatista das províncias de Entre Rios e Corientes, apoiado Pelo Império Brasileiro.",
+        "choice4": "Movimento Separatista no Rio Grande do Sul, apoiado pelo Paraguai e pela Confederação Argentina.",
+        "answer": 1
+    },
+    {
+        "question": "A Lei Eusébio de Queiroz, aprovada em 1850, proibia:",
+        "choice1": "A entrada de imigrantes de origem alemã.",
+        "choice2": "A entrada de africanos escravizados no Brasil.",
+        "choice3": "A população analfabeta de votar.",
+        "choice4": "A posse de grandes quantias de terra.",
+        "answer": 2
+    },
+    {
+        "question": "A Revolta Praieira, ocorrida entre 1848 e 1849, foi que tipo de Movimento?",
+        "choice1": "Revolução abolicionista em Pernambuco.",
+        "choice2": "Movimento Separatista em Pernambuco.",
+        "choice3": "Um conflito armado entre Praieiros e Conservadores.",
+        "choice4": "Golpe de Estado, iniciado na Bahia.",
+        "answer": 3
+    },
+    {
+        "question": "Qual foi o líder militar e ex-primeiro-ministro do Brasil, que teve grande destaca durante o segundo reinado?",
+        "choice1": "Conde d'Eu.",
+        "choice2": "Marechal Deodoro da Fonseca.",
+        "choice3": "Barão de Mauá.",
+        "choice4": "Duque de Caxias.",
+        "answer": 4
+    }
+]

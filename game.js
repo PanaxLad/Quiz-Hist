@@ -11,7 +11,10 @@ let avaliableQuestions = [];
 
 let questions = [];
 
-fetch("questions.json").then(res => {
+// const jsonFile = localStorage.getItem('questoes');
+const jsonFile = 'questions.json';
+
+fetch(jsonFile).then(res => {
     return res.json();
 }).then(loadedQuestions => {
     console.log(loadedQuestions);
@@ -62,7 +65,7 @@ choices.forEach(choice => {
         acceptingAnswers = false;
         const selectedChoice = e.target;
         const selectedAnswer = selectedChoice.dataset["number"];
-    
+        
         const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === "correct") {

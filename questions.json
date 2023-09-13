@@ -8,19 +8,19 @@
         "answer": 1
     },
     {
-        "question": "Um ponto que marcou o Segundo Reinado de Dom Pedro foi a existência de um Quarto Poder, como ele era Conhecido?",
-        "choice1": "Poder Nobre.",
-        "choice2": "Poder Moderador.",
-        "choice3": "Poder Regencial.",
-        "choice4": "Poder Papal.",
+        "question": "Em 1815 após a chegada da corte portuguesa ao Brasil, a colonia é elevada a estado formando assim o:",
+        "choice1": "Reino Unido de Portugal, Brasil e Angola",
+        "choice2": "Reino Unido de Portugal, Brasil e Algarves",
+        "choice3": "Reino Unido Lusitano",
+        "choice4": "Imperio Luso-Brasileiro",
         "answer": 2
     },
     {
-        "question": "A Lei Saraiva, aprovada em 1881, proibia o quê?",
-        "choice1": "Proibição da Compra de Escravos da África.",
-        "choice2": "Proibição de Trabalho Infantil.",
-        "choice3": "Proibição do Voto de Analfabetos.",
-        "choice4": "Proibição do comércio com as Potências Centrais.",
+        "question": "Dentre os principais motivos que levaram a abdicação de Dom Pedro I em 1831 está:",
+        "choice1": "Incapacidade de Dom Pedro I de governar o Império.",
+        "choice2": "Pressão Internacional para a abdicação de Dom Pedro I.",
+        "choice3": "O Crescimento do conflito entre Portugueses e Brasileiros.",
+        "choice4": "A Inconfidência Mineira, revolta que pedia a abdicação do atual Monarca.",
         "answer": 3
     },
     {
@@ -40,11 +40,11 @@
         "answer": 1
     },
     {
-        "question": "Sobre o que tratava a chamada Lei de Terras, aprovada em 1850?",
-        "choice1": "Divisão da zona Rural em pequenas propriedades.",
-        "choice2": "Divisão da zona rural em Latifúndios.",
-        "choice3": "Garantir a Liberdade Religiosa.",
-        "choice4": "Regulamentar a pose de Terras da Igreja.",
+        "question": "Após a chegada da corte portuguesa ao Rio de Janeiro em 1808, mais de 10 mil casa receberam um carimbo de despejo com as letras PR, que significavam:",
+        "choice1": "Ponha-se na Rua.",
+        "choice2": "Principe Regente.",
+        "choice3": "Propriedade Real.",
+        "choice4": "Porta Revisada.",
         "answer": 2
     },
     {
@@ -56,11 +56,11 @@
         "answer": 3
     },
     {
-        "question": "O que foi a República de Piratini, extinta em 1845 no começo do Segundo Reinado?",
-        "choice1": "Um Movimento contra a Escravidão.",
-        "choice2": "Movimento Revolucionário em São Paulo.",
-        "choice3": "Revolta para derrubar Dom Pedro I.",
-        "choice4": "Movimento Separatista no Sul do país.",
+        "question": "A Declaração de Maioridade, de 1840 permitiu que Dom Pedro II fosse coroado Imperador, essa declaração foi emitida pois:",
+        "choice1": "O Imperador atingiu a Maioridade legal de 18 anos.",
+        "choice2": "Dom Pedro I abdicou em favor de seu filho naquele ano.",
+        "choice3": "Dom Pedro II orquestrou um golpe contra a Regencia Trina para que finalmente fosse coroado Imperador",
+        "choice4": "O Imperador era necessario para por fim as Revoltas.",
         "answer": 4
     },
     {
@@ -72,19 +72,19 @@
         "answer": 1
     },
     {
-        "question": "A Guerra do Paraguai terminou em 1870, com a:",
-        "choice1": "Vitória do Paraguai.",
-        "choice2": "Vitória da Tríplice Aliança.",
-        "choice3": "Paz Branca.",
-        "choice4": "Golpe Militar no Paraguai.",
-        "answer": 2
+        "question": "Qual motivo levou a Familia Real Portuguesa a vir para o Brasil em 1808?",
+        "choice1": "Invasão de Portugal pela França de Napoleão Bonaparte.",
+        "choice2": "Invasão de Portugal pelo Rei Espanhol Fernando VI",
+        "choice3": "Revolução Republicana na cidade de Porto.",
+        "choice4": "O Grande Terremoto de Lisboa, que destruiu a cidade.",
+        "answer": 1
     },
     {
-        "question": "De 1763 a 1960, antes da construção de Brasília, e durante todo o Império Brasileiro, a capital nacional era:",
-        "choice1": "São Paulo.",
-        "choice2": "Salvador.",
-        "choice3": "Rio de Janeiro.",
-        "choice4": "Recife.",
+        "question": "A Revolta da Cabanagem que ocorreu entre 1835 e 1840, teve como sua principal causa:",
+        "choice1": "Luta pela redução dos impostos sobre Produtos Agricolas.",
+        "choice2": "Busca pela Independência do Grão-Pará.",
+        "choice3": "Busca por melhores condições de vida.",
+        "choice4": "Busca pela liberdade religiosa dos povos Indigenas.",
         "answer": 3
     },
     {
@@ -96,12 +96,12 @@
         "answer": 4
     },
     {
-        "question": "Guerra do Prata (1851-1852) foi um conflito militar ocorrido na Bacio do Prata. Que tipo de conflito foi esse?",
-        "choice1": "Foi um Conflito pela Hegemonia no Rio da Prata, e Influência no Paraguai.",
-        "choice2": "Foi um golpe Militar ocorrido na Argentina, apoiado pelo Brasil.",
-        "choice3": "Um movimento separatista das províncias de Entre Rios e Corientes, apoiado Pelo Império Brasileiro.",
-        "choice4": "Movimento Separatista no Rio Grande do Sul, apoiado pelo Paraguai e pela Confederação Argentina.",
-        "answer": 1
+        "question": "O que caracterizou a Revolta dos Malês, ocorrida no Brasil em 1835?",
+        "choice1": "Foi uma Revolta de Ashkenazis (Judeus) escravizados.",
+        "choice2": "Foi uma Revolta de Muçulmanos escravizados.",
+        "choice3": "Uma insurreição liderada por comerciantes de Açucar.",
+        "choice4": "Uma revolução pela Independência do Nordeste.",
+        "answer": 2
     },
     {
         "question": "A Lei Eusébio de Queiroz, aprovada em 1850, proibia:",
@@ -112,19 +112,19 @@
         "answer": 2
     },
     {
-        "question": "A Revolta Praieira, ocorrida entre 1848 e 1849, foi que tipo de Movimento?",
-        "choice1": "Revolução abolicionista em Pernambuco.",
-        "choice2": "Movimento Separatista em Pernambuco.",
-        "choice3": "Um conflito armado entre Praieiros e Conservadores.",
-        "choice4": "Golpe de Estado, iniciado na Bahia.",
+        "question": "A Republica de Piratini foi um estado que existiu de 1836 a 1845, criado durante uma revolta em que região do Brasil?",
+        "choice1": "Provincia do Grão-Pará",
+        "choice2": "São Paulo e Santa Catarina.",
+        "choice3": "Rio Grande do Sul.",
+        "choice4": "Nordeste do Brasil.",
         "answer": 3
     },
     {
-        "question": "Qual foi o líder militar e ex-primeiro-ministro do Brasil, que teve grande destaca durante o segundo reinado?",
-        "choice1": "Conde d'Eu.",
-        "choice2": "Marechal Deodoro da Fonseca.",
-        "choice3": "Barão de Mauá.",
-        "choice4": "Duque de Caxias.",
+        "question": "A Sabinada movimento que começou em 1837 e terminou em 1838 foi:",
+        "choice1": "Um revolta de escravizados na Bahia.",
+        "choice2": "Uma insurreição que buscava Liberdade Religiosa.",
+        "choice3": "Uma revolta que buscava destituir Dom Pedro II.",
+        "choice4": "Uma revolta para constituir uma “República Bahiense” até Dom Pedro II alcançar a maioridade.",
         "answer": 4
     }
 ]
